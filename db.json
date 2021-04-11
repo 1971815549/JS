@@ -1,7 +1,16 @@
 {
-  "hotversion": "4.4",
-  "version": "4.4",
-  "injection": "<p style=\"text-align:right;width:100%;margin:0;\"><a >�������������ں����ܿڴ�</a>|<a href=\"https://assets.dockeer.com/souti/qun.png\" target='_blank'>����QQȺ</a></p>\n<p style=\"text-align:right;width:100%;margin:0;\">[<a href=\"https://assets.dockeer.com/souti/wxqr.jpg\" target='_blank' style=\"color:red;font-weight: bold;\">�����ע���ں�</a>]</p>",
-  "enforce": false,
-  "url": "https://github.com/ishoward/zhi"
+  “帖子”：[
+    { “ id ”：1，“ title ”：“ Post 1 ” }，
+    { “ id ”：2，“ title ”：“ Post 2 ” }，
+    { “ id ”：3，“ title ”：“ Post 3 ” }
+  ]，
+  “评论”：[
+    { “ id ”：1，“ body ”：“ some comment ”，“ postId ”：1 }，
+    { “ id ”：2，“ body ”：“一些评论”，“ postId ”：1 }
+  ]，
+  “更新”：{
+          “ hotversion ”： “ 4.4 ”，
+	  “版本”： “ 4.4 ”，
+	  “ injection ”： “ \ u003c p style = \” text-align：right; width：100％; margin：0; \“\ u003e \ u003c一个\ u003e关注果哥公众号万能口袋\ u003c / A \ u003e | \ u003c A HREF = \ “ https://assets.dockeer.com/souti/qun.png \”目标= '_空白' \ u003e加入QQ群\ u003c / A \ u003e \ u003c / p \ u003e \ n \ u003c p style = \“ text-align：right; width：100％; margin：0; \“ \ u003e [ \ u003c a href = \”https://assets.dockeer.com/souti/wxqr.jpg \“ target ='_ blank'style = \” color：红色；字体重量：粗体；\“ \ u003e点击关注公众号\ u003c / a \ u003e ] \ u003c / p \ u003e ”，“强制”：false，“ url ”：“ https://github.com/ishoward/zhi ”
+  }
 }
